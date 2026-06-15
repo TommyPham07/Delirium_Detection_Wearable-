@@ -1,8 +1,8 @@
 Contributors:
-Tommy Pham: Actigraphy feature, sleep disruptions code.
-Thomas Zhang: Heart Rate, SpO2, Heart Rate variability code.
-Saffiulah Nasim: 3D model, Bluetooth and toggler.
-Ryan Jardine: Erratic movements, hypoactive and hyperactive.
+- Tommy Pham: Actigraphy feature, sleep disruptions code.
+- Thomas Zhang: Heart Rate, SpO2, Heart Rate variability code.
+- Saffiulah Nasim: 3D model, Bluetooth and toggler.
+- Ryan Jardine: Erratic movements, hypoactive and hyperactive.
 
 
 Wearable detects hospital induced delirium
